@@ -22,4 +22,12 @@ A deep dive into the operational data revealed that 1,992 orders contained chron
  - Portfolio Rationalization: Phase out low-performing accessories, such as gaming mice and headsets, to allow for more focused marketing and inventory investment in core hardware.
  - Trend Replication: Conduct a post-mortem on the marketing and external factors that drove the 2020 surge to develop a repeatable strategy for future peak seasons.
  - Audit Data Workflows: Investigate the data entry and storage processes immediately. Implementing automated validation rules at the point of entry is necessary to eliminate the $10\%$ error rate in order documentation.
+
+# Insights & Deep - Dive
+
+## Revenue Analysis
+<img width="561" height="433" alt="image" src="https://github.com/user-attachments/assets/ddb16d2d-d474-4a55-963e-2fb768a1eb09" />
+- The top 3 most profitable products are 27 inches 4k gaming montior (leading with $1.75M), Nitendo Switch ($1.5M) and PS5 bundle ($1.45M). All three have the same selling trend that began to spike up toward the end of the year. 
+
+
    
