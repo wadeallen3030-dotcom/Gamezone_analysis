@@ -26,7 +26,12 @@ A deep dive into the operational data revealed that 1,992 orders contained chron
 # Insights & Deep - Dive
 
 ## Revenue Analysis
-<img width="561" height="433" alt="image" src="https://github.com/user-attachments/assets/ddb16d2d-d474-4a55-963e-2fb768a1eb09" />
+<img width="690" height="449" alt="image" src="https://github.com/user-attachments/assets/a41e995c-5664-4b63-a096-8249ff80bd0b" />
+
+
+<img width="696" height="449" alt="image" src="https://github.com/user-attachments/assets/c718f5d8-e0ed-4f21-b53b-dea3fbcec30e" />
+
+
 - The top 3 most profitable products are 27 inches 4k gaming montior (leading with $1.75M), Nitendo Switch ($1.5M) and PS5 bundle ($1.45M). All three have the same selling trend that began to spike up toward the end of the year. 
 
 
