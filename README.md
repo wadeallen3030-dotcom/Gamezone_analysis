@@ -49,10 +49,9 @@ A deep dive into the operational data revealed that 1,992 orders contained chron
 
 ## Refund Analysis
 <p align="center">
-  <img width="593" height="389" alt="image" src="https://github.com/user-attachments/assets/22375c04-5839-4f68-bec6-e5d099a49d71" />
-  <img width="554" height="432" alt="image" src="https://github.com/user-attachments/assets/c458f4b8-d52e-4261-98ec-08f1bc333319" />
-
+  <img src="https://github.com/user-attachments/assets/794c9025-8e83-47d9-97ad-cf13e0d38861" width="48%">
+  <img src="https://github.com/user-attachments/assets/797f2218-8554-4293-b0a5-f3b6da0e4eae" width="48%">
 </p>
 
 - Total of $1.08M orders were refunded (20% of gross revenue) which stands for quite huge loss. It's worth noticing that even in 2026 there're still orders being refunded. This is potential quality risk that needs to be further investigated.
-- 
+  
