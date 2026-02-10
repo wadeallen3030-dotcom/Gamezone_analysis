@@ -23,7 +23,7 @@ A deep dive into the operational data revealed that 1,992 orders contained chron
  - Trend Replication: Conduct a post-mortem on the marketing and external factors that drove the 2020 surge to develop a repeatable strategy for future peak seasons.
  - Audit Data Workflows: Investigate the data entry and storage processes immediately. Implementing automated validation rules at the point of entry is necessary to eliminate the $10\%$ error rate in order documentation.
 
-# Insights & Deep - Dive
+# Insights
 
 ## Revenue Analysis
 <p align="center">
