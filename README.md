@@ -33,8 +33,11 @@ A deep dive into the operational data revealed that 1,992 orders contained chron
 </p>
 
 - US region is the main contributor and is leading all the time. All regions have the same trend that revenue starts to grow in 2020 and reaching their peak toward the end of the year.
-- The top 3 most profitable products are 27 inches 4k gaming montior (leading with $1.75M), Nitendo Switch ($1.5M) and PS5 bundle ($1.45M). All three have the same selling trend that began to spike up toward the end of the year. 
+- The top 3 most profitable products are 27 inches 4k gaming montior (leading with $1.75M), Nitendo Switch ($1.5M) and PS5 bundle ($1.45M). All three have the same selling trend that began to spike up toward the end of the year.
 
+ <img width="1167" height="488" alt="image" src="https://github.com/user-attachments/assets/46643e8b-db68-4672-92f4-126a28ef03ca" />
+
+ - Among all the countries, USA is the strongest performer with over $2.5M in total, followed by the UK with around 500K.
 
  <img width="775" height="443" alt="image" src="https://github.com/user-attachments/assets/dd0704c3-4a85-49e7-9ac7-6bf34585e263" />
  
@@ -44,4 +47,12 @@ A deep dive into the operational data revealed that 1,992 orders contained chron
 
 - Over 95% of the revenue are from website. Even with the overall revenue is increasing, there's no clear progress on mobile app platform.
 
-   
+## Refund Analysis
+<p align="center">
+  <img width="593" height="389" alt="image" src="https://github.com/user-attachments/assets/22375c04-5839-4f68-bec6-e5d099a49d71" />
+  <img width="554" height="432" alt="image" src="https://github.com/user-attachments/assets/c458f4b8-d52e-4261-98ec-08f1bc333319" />
+
+</p>
+
+- Total of $1.08M orders were refunded (20% of gross revenue) which stands for quite huge loss. It's worth noticing that even in 2026 there're still orders being refunded. This is potential quality risk that needs to be further investigated.
+- 
