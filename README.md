@@ -17,7 +17,7 @@ The analysis uncovered a significant volume of returns, with 3,197 orders being 
 ### - Data Integrity & Operational Risks:
 A deep dive into the operational data revealed that 1,992 orders contained chronological anomalies—specifically, purchase timestamps documented as occurring after shipping timestamps. These errors represent nearly 10% of the total dataset. Such inconsistencies pose a risk to future predictive modeling and strategic planning, as they can lead to inaccurate lead-time reporting and skewed performance metrics.
 ### - Recommendations:
- - Resource Optimization: Maintain and strengthen the supply chain for high-margin drivers, specifically 27-inch 4K Gaming Monitors, Nintendo Switch, and PS5 Bundles in the US market.
+ - Resource Optimization: Maintain and strengthen the supply chain for high-margin drivers, specifically 27-inch 4K Gaming Monitors, Nintendo Switch, and PS5 Bundles in the US market on website platform.
  - Expansion Targeting: Redirect resources toward regions and products showing high potential, such as the United Kingdom market and the Ideapad product line, which show promising traction.
  - Portfolio Rationalization: Phase out low-performing accessories, such as gaming mice and headsets, to allow for more focused marketing and inventory investment in core hardware.
  - Trend Replication: Conduct a post-mortem on the marketing and external factors that drove the 2020 surge to develop a repeatable strategy for future peak seasons.
@@ -26,13 +26,22 @@ A deep dive into the operational data revealed that 1,992 orders contained chron
 # Insights & Deep - Dive
 
 ## Revenue Analysis
-<img width="690" height="449" alt="image" src="https://github.com/user-attachments/assets/a41e995c-5664-4b63-a096-8249ff80bd0b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a41e995c-5664-4b63-a096-8249ff80bd0b" width="48%">
+  <img src="https://github.com/user-attachments/assets/c718f5d8-e0ed-4f21-b53b-dea3fbcec30e" width="48%">
 
+</p>
 
-<img width="696" height="449" alt="image" src="https://github.com/user-attachments/assets/c718f5d8-e0ed-4f21-b53b-dea3fbcec30e" />
-
-
+- US region is the main contributor and is leading all the time. All regions have the same trend that revenue starts to grow in 2020 and reaching their peak toward the end of the year.
 - The top 3 most profitable products are 27 inches 4k gaming montior (leading with $1.75M), Nitendo Switch ($1.5M) and PS5 bundle ($1.45M). All three have the same selling trend that began to spike up toward the end of the year. 
 
+
+ <img width="775" height="443" alt="image" src="https://github.com/user-attachments/assets/dd0704c3-4a85-49e7-9ac7-6bf34585e263" />
+ 
+- While the top 3 products are driving over $1.5M, it's worth noting that most of the rest products are driving nearly no value (under $250K), including Razer headset, Dell mouse, Acer laptop and JBL headset.
+
+ <img width="593" height="495" alt="image" src="https://github.com/user-attachments/assets/9d5ecda3-6f7a-40ed-863e-6f7d11a79289" />
+
+- Over 95% of the revenue are from website. Even with the overall revenue is increasing, there's no clear progress on mobile app platform.
 
    
